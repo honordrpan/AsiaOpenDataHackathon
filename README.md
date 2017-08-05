@@ -14,7 +14,7 @@ Team. 我們以潘教授為榮
     <li>點擊右方承接案件公司內之公司名稱，地圖中顯示對應案件之資訊，與該公司承接案件金額佔該單位總發包金額之比例</li>
   </ol>
 </p>
-<p><br></p>
+<p></p>
 <p>
   Website: <a href="http://aodhdrpan.ddns.net/Corruption/">ProudOfDrPan</a>
 </p>
