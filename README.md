@@ -19,7 +19,7 @@ Team. 我們以潘教授為榮
   Website: <a href="http://aodhdrpan.ddns.net/Corruption/" target="_blank">ProudOfDrPan</a>
 </p>
 <p>
-  Report: <a href="https://www.canva.com/design/DACdOQk3Wpk/OXTsXIh0obcRSHNedrvSOA/edit" target="_blank">Find Our Tax</a>
+  Report (尚未完成): <a href="https://www.canva.com/design/DACdOQk3Wpk/OXTsXIh0obcRSHNedrvSOA/edit" target="_blank">Find Our Tax</a>
 </p>
 <p></p>
 <p></p>
