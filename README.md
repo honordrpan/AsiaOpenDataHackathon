@@ -26,9 +26,9 @@ Team. 我們以潘教授為榮
   Open data used:
   <ul>
     <li><a href="https://www.taiwanbuying.com.tw/">台灣採購公報網</a></li>
-    <li><a href="http://mops.twse.com.tw/mops/web/stapap1"></a>公開資料觀測站</li>
-    <li><a href="http://cmdweb.pcc.gov.tw/pccms/owa/guesmap.userinn"></a>標案管理系統</li>
-    <li><a href="http://mops.twse.com.tw/mops/web/stapap1"></a>商⼯登記公⽰資料</li>
+    <li><a href="http://mops.twse.com.tw/mops/web/stapap1">公開資料觀測站</a></li>
+    <li><a href="http://cmdweb.pcc.gov.tw/pccms/owa/guesmap.userinn">標案管理系統</a></li>
+    <li><a href="http://mops.twse.com.tw/mops/web/stapap1">商⼯登記公⽰資料</a></li>
   </ul>
 </p>
 <p></p>
