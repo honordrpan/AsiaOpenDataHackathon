@@ -1,7 +1,7 @@
 # AsiaOpenDataHackathon
 Team. 我們以潘教授為榮
 
-<p>How To Use</p>
+<p>How To Use (Briefly):</p>
 <p>
   公司名稱模式下：
   <ul>
